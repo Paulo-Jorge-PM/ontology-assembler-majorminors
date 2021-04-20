@@ -1,0 +1,37 @@
+#!/usr/bin/env python3
+# -*- coding: UTF-8 -*-
+
+data = {
+"Eurásia":"", 
+"Mediterrâneo":"", 
+"Faixa de Gaza":"", 
+"Himalaias":"",
+"Triângulo das Bermudas":"",
+"Yellowstone":"",
+"América Latina":"",
+"Machu Picchu":"",
+"Grande Muralha da China":"",
+"Pirâmide de Gizé":"",
+"Stonehenge":"",
+"Cristo Redentor":"",
+"Petra":"",
+"Coliseu de Roma":"",
+"Chichén Itzá":"",
+"Taj Mahal":"",
+"Acrópole de Atenas":"",
+"Angkor Wat":"",
+"Torre Eiffel":"",
+"Hagia Sofia":"",
+"Praça Vermelha":"",
+"Estátua da Liberdade":"",
+"Ópera de Sydney":"",
+"Tombuctu":"",
+"Alhambra":"",
+"Rio Tejo":"",
+"Rio Doutor":"",
+"Rio Cávado":"",
+"Rio Guadiana":"",
+"Rio Lima":"",
+"Minas dos Carris":"",
+"Namek":""
+}
